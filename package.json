@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/async-iterable-to-array",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Materialize sync or async iterable values into an array.",
   "keywords": [
     "array",
